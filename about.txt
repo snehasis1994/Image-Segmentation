@@ -1,0 +1,2 @@
+Author:Snehasis Sahu
+Desc: implementation of different Image Segmentation algorithm
